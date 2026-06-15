@@ -2,8 +2,10 @@
 
 numero = int(input("Digite um valor inteiro: "))
 
-contador = 0 
+contador = 01
 
 while contador < numero:
     print(contador)
     contador+=1
+    
+    
